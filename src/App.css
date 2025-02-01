@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sc{
+  background-size: 110%;
+}
+.smc{
+  background-size: 150%;
+}
+.ft{
+  font-family: Okra, Helvetica, sans-serif;
+}
+.search{
+align-items: center;
+height: 3rem;
+background: rgb(255, 255, 255);
+border-radius: 0.8rem;
+box-shadow: rgba(28, 28, 28, 0.08) 0px 2px 8px;
+border: 1px solid rgb(232, 232, 232);}
