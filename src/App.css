@@ -9,7 +9,10 @@
   background-size: 150%;
 }
 .ft{
-  font-family: Okra, Helvetica, sans-serif;
+  font-family: 'Metropolis', sans-serif;
+}
+body {
+  font-family: 'Metropolis', sans-serif;
 }
 .search{
 align-items: center;
